@@ -37,4 +37,4 @@ Ce projet a pour objectif d'explorer et d'analyser les données agricoles du dat
    ```
 
 ## Auteurs
-- **Groupe 21** — *À compléter avec les noms des membres du groupe*
+- **Groupe 21** — *BELLOUCHI Marwa - BOUHOU Imane*
